@@ -12,6 +12,20 @@ print("hgehgrorehre")
 print("hgehgrorehre")
 print("hgehgrorehre")
 print("hgehgrorehre")
+print("hgehgrorehre")
+print("hgehgrorehre")
+print("hgehgrorehre")
+print("hgehgrorehre")
+print("hgehgrorehre")
+print("hgehgrorehre")
+print("hgehgrorehre")
+print("hgehgrorehre")
+print("hgehgrorehre")
+print("hgehgrorehre")
+print("hgehgrorehre")
+print("hgehgrorehre")
+
+
 
 #Polindrom
     #Numeric polindrom
