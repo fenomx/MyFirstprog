@@ -16,14 +16,14 @@ print("hgehgrorehre")
 print("hgehgrorehre")
 print("hgehgrorehre")
 print("hgehgrorehre")
-print("hgehgrorehre")
-print("hgehgrorehre")
-print("hgehgrorehre")
-print("hgehgrorehre")
-print("hgehgrorehre")
-print("hgehgrorehre")
-print("hgehgrorehre")
-print("hgehgrorehre")
+print("""hgehgrorehreerpgkr
+e
+ger
+gkpregkpr[egk
+ergregkr
+ewgprejgporjegorejg
+rejogrejg""")
+
 
 
 
